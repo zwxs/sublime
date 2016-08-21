@@ -1,1 +1,0 @@
-{"url": "https://packagecontrol.io/packages/Terminal", "platforms": ["*"], "version": "1.11.0", "description": "Launch terminals from the current file or the root project folder", "dependencies": [], "sublime_text": "*"}
