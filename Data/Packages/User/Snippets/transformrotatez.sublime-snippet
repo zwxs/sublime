@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+transform: rotateZ(${1:100}deg);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tfrz</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.html</scope> -->
+</snippet>

@@ -1,0 +1,41 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AngularJS",
+		"AutoFileName",
+		"Babel",
+		"ChineseLocalizations",
+		"Color Highlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"FileHeader",
+		"Git",
+		"GitGutter",
+		"Github Tools",
+		"HTML-CSS-JS Prettify",
+		"Http Requester",
+		"IMESupport",
+		"JsFormat",
+		"Markdown Preview",
+		"Material Theme",
+		"Package Control",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"SideBarGit",
+		"StandardFormat",
+		"SublimeServer",
+		"Terminal",
+		"Theme - Soda",
+		"TodoReview",
+		"Xtemplate"
+	]
+}

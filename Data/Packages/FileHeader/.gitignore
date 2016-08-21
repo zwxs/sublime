@@ -1,0 +1,6 @@
+.DS_Store
+*.swp
+*.pyc
+github.py
+doc/Makefile
+doc/_build/

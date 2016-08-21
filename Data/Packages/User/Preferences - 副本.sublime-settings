@@ -1,0 +1,120 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": ".",
+			"selector": "text.js"
+		}
+	],
+	"bold_folder_labels": true,
+	"centurion_color_blue": true,
+	"centurion_color_grey": true,
+	"centurion_color_orange": true,
+	"centurion_color_red": true,
+	"centurion_color_yellow": true,
+	"color_scheme": "Packages/User/SublimeLinter/Solarized (Light) (SL).tmTheme",
+	"dpi_scale": 1.0,
+	"enable_tab_scrolling": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		"*.sublime-project",
+		"~$*"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".idea"
+	],
+	"font_face": "Consolas",
+	"font_options":
+	[
+	],
+	"font_size": 17,
+	"gutter": true,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Better Completion",
+		"BracketHighlighter",
+		"CSS3",
+		"Function Name Display",
+		"GitGutter",
+		"HTML Minifier",
+		"Less2Css",
+		"Material Theme",
+		"SublimeCodeIntel",
+		"SyncedSideBar",
+		"View In Browser"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"margin": 2,
+	"material_theme_accent_red": true,
+	"material_theme_bold_tab": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_disable_fileicons": false,
+	"material_theme_disable_folder_animation": false,
+	"material_theme_disable_tree_indicator": false,
+	"material_theme_panel_separator": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tabs_separator": true,
+	"material_theme_tree_headings": true,
+	"overlay_scroll_bars": "enabled",
+	"preview_on_click": true,
+	"rulers":
+	[
+		80,
+		100
+	],
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"scroll_speed": 5,
+	"soda_classic_tabs": false,
+	"soda_folder_icons": false,
+	"spacegray_sidebar_font_large": true,
+	"spacegray_sidebar_tree_xlarge": true,
+	"spacegray_tabs_auto_width": false,
+	"spacegray_tabs_font_normal": true,
+	"spacegray_tabs_large": true,
+	"tab_size": 2,
+	"theme": "Soda Light 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true
+}

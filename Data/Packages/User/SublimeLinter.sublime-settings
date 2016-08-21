@@ -1,0 +1,9 @@
+{
+	"user":
+	{
+		"lint_mode": "background",
+		"linters":
+		{
+		}
+	}
+}
